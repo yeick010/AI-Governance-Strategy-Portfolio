@@ -36,7 +36,7 @@ Un protocollo completo per la gestione delle crisi AI, basato sulla filosofia "F
 
 - **Framework di Metriche:** Un sistema di KPI per misurare l'efficacia della risposta (es. Time to Detection, Total Cost of Incident) .
 
-Template di Comunicazione: Modelli pre-approvati per comunicare con media, clienti e autorità, garantendo coerenza e professionalità .
+- **Template di Comunicazione:** Modelli pre-approvati per comunicare con media, clienti e autorità, garantendo coerenza e professionalità .
 
 ➡️ **[Esplora i dettagli dell'Ecosistema P.R.I.A.](./PRIA_Incident_Response_Ecosystem/README.md)**
 
