@@ -11,7 +11,7 @@ P.R.I.A. non è un singolo documento, ma un sistema integrato di asset strategic
 ### 1. Il Protocollo (P.R.I.A.)
 È il cervello strategico dell'ecosistema. [cite_start]Definisce i criteri per classificare un incidente come "critico" [cite: 1614] [cite_start]e stabilisce una **timeline di risposta critica** (es. attivazione del team entro 15 minuti, prima comunicazione pubblica entro 2 ore) [cite: 1627-1638]. [cite_start]Introduce una **scala di gravità a 5 livelli (DEFCON-AI)**, da "AWARE" a "EXISTENTIAL", per garantire una risposta proporzionata alla minaccia [cite: 1662-1696].
 
-➡️ **[Consulta il documento](./1_Protocollo/Protocollo_di_Risposta_agli_Incidenti_AI_(P.R.I.A.).pdf)**
+➡️ **[Consulta il documento](./PRIA_Protocollo_Risposta_Incidenti_AI.pdf)**
 
 ### 2. Le Checklist Operative
 Sono il braccio esecutivo del protocollo. [cite_start]Forniscono guide procedurali passo-passo e dettagliate per ogni ruolo chiave dell'**AI Crisis Response Team** (A-CRT), dal Crisis Leader al Chief Legal Officer [cite: 618-620]. [cite_start]Questo assicura che nessuna azione critica venga dimenticata nei momenti di massima pressione e crea un processo decisionale coordinato e verificabile[cite: 619].
