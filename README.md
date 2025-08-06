@@ -45,4 +45,4 @@ Un protocollo completo per la gestione delle crisi AI, basato sulla filosofia "F
 
 Applicazione pratica del framework SAFE-AI per analizzare il posizionamento strategico e il profilo di rischio AI di un'azienda leader di mercato.
 
-➡️ **[Leggi l'analisi su Azienda X](./Case-Studies_Applicati/Analisi_SAFE-AI_su_Azienda_FERRARI/README.md)**
+➡️ **[Leggi l'analisi su Azienda X](./Case-Studies_Applicati/Analisi_SAFE-AI_FERRARI/README.md)**
